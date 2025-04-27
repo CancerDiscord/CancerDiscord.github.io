@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/CancerDiscord/CancerDiscord.github.io/issues"
   },
-  "homepage": "https://github.com/CancerDiscord/CancerDiscord.github.io#readme",
-  "dependencies": {
-    "@tailwindcss/cli": "^4.1.4",
-    "tailwindcss": "^4.1.4"
-  }
+  "homepage": "https://github.com/CancerDiscord/CancerDiscord.github.io/index.html"
 }
